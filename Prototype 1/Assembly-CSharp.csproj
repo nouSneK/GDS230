@@ -73,12 +73,16 @@
     <Compile Include="Assets\Fonts\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
     <Compile Include="Assets\Fonts\StarterAssets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\CountdownTimer.cs" />
+    <Compile Include="Assets\Scripts\DontDestroyAudio.cs" />
     <Compile Include="Assets\Scripts\GameOverScript.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\SC_FPSController.cs" />
     <Compile Include="Assets\Scripts\Win.cs" />
     <None Include="Assets\Poppins\OFL.txt" />
     <None Include="Assets\Fonts\StarterAssets\Environment\Shaders\Built-in_RP\Triplanar.shader" />
     <None Include="Assets\Fonts\StarterAssets\license.txt" />
+    <None Include="Assets\Fonts\kenney\Tilesheet.txt" />
+    <None Include="Assets\Fonts\kenney\License.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
