@@ -80,6 +80,9 @@
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\SC_FPSController.cs" />
     <Compile Include="Assets\Scripts\Win.cs" />
+    <Compile Include="Assets\Week 2\BlueTrigger.cs" />
+    <Compile Include="Assets\Week 2\GreenTrigger.cs" />
+    <Compile Include="Assets\Week 2\RedTrigger.cs" />
     <None Include="Assets\Poppins\OFL.txt" />
     <None Include="Assets\Fonts\StarterAssets\Environment\Shaders\Built-in_RP\Triplanar.shader" />
     <None Include="Assets\Fonts\StarterAssets\license.txt" />
