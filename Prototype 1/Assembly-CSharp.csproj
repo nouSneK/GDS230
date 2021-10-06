@@ -81,8 +81,12 @@
     <Compile Include="Assets\Scripts\SC_FPSController.cs" />
     <Compile Include="Assets\Scripts\Win.cs" />
     <Compile Include="Assets\Week 2\BlueTrigger.cs" />
+    <Compile Include="Assets\Week 2\GameOver.cs" />
     <Compile Include="Assets\Week 2\GreenTrigger.cs" />
+    <Compile Include="Assets\Week 2\Menu.cs" />
     <Compile Include="Assets\Week 2\RedTrigger.cs" />
+    <Compile Include="Assets\Week 2\SoundManager.cs" />
+    <Compile Include="Assets\Week 2\UIButtons.cs" />
     <None Include="Assets\Poppins\OFL.txt" />
     <None Include="Assets\Fonts\StarterAssets\Environment\Shaders\Built-in_RP\Triplanar.shader" />
     <None Include="Assets\Fonts\StarterAssets\license.txt" />
