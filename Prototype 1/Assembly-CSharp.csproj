@@ -88,6 +88,7 @@
     <Compile Include="Assets\Week 2\RedTrigger.cs" />
     <Compile Include="Assets\Week 2\SoundManager.cs" />
     <Compile Include="Assets\Week 2\UIButtons.cs" />
+    <Compile Include="Assets\Week 3\Enemy.cs" />
     <Compile Include="Assets\Week 3\PlayerController.cs" />
     <None Include="Assets\Poppins\OFL.txt" />
     <None Include="Assets\Fonts\StarterAssets\Environment\Shaders\Built-in_RP\Triplanar.shader" />
