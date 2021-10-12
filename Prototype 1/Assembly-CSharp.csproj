@@ -95,6 +95,7 @@
     <None Include="Assets\Fonts\StarterAssets\license.txt" />
     <None Include="Assets\Fonts\kenney\Tilesheet.txt" />
     <None Include="Assets\Fonts\kenney\License.txt" />
+    <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
     <None Include="Assets\Fonts\Yusei_Magic\OFL.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
