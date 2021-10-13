@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Week 2/Main Menu.unity
-    guid: b1991968a7e38664580a02b4ede05bbf
+    path: Assets/Week 3/Main Menu.unity
+    guid: fb9bbd80141e1834c923cd6855139da9
   - enabled: 1
-    path: Assets/Week 2/Creative Colours.unity
-    guid: 56d1f32fb8b32264a82c276ee70f08dc
+    path: Assets/Week 3/American Werewolf in London 1.unity
+    guid: f69e3087ef5bc6e4e9887045d8617f8b
   m_configObjects: {}

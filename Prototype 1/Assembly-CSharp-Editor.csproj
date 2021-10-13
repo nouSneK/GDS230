@@ -63,12 +63,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Fonts\StarterAssets\Editor\FirstPersonStarterAssetsDeployMenu.cs" />
-    <Compile Include="Assets\Fonts\StarterAssets\Editor\PackageChecker\PackageChecker.cs" />
-    <Compile Include="Assets\Fonts\StarterAssets\Editor\ScriptingDefineUtils.cs" />
-    <Compile Include="Assets\Fonts\StarterAssets\Editor\StarterAssetsDeployMenu.cs" />
-    <Compile Include="Assets\Fonts\StarterAssets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
-    <None Include="Assets\Fonts\StarterAssets\Editor\PackageChecker\PackageImportList.txt" />
+    <Compile Include="Assets\Other Assets\StarterAssets\Editor\FirstPersonStarterAssetsDeployMenu.cs" />
+    <Compile Include="Assets\Other Assets\StarterAssets\Editor\PackageChecker\PackageChecker.cs" />
+    <Compile Include="Assets\Other Assets\StarterAssets\Editor\ScriptingDefineUtils.cs" />
+    <Compile Include="Assets\Other Assets\StarterAssets\Editor\StarterAssetsDeployMenu.cs" />
+    <Compile Include="Assets\Other Assets\StarterAssets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+    <None Include="Assets\Other Assets\StarterAssets\Editor\PackageChecker\PackageImportList.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
