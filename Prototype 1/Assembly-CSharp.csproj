@@ -94,6 +94,11 @@
     <Compile Include="Assets\Week 3\PauseMenu.cs" />
     <Compile Include="Assets\Week 3\PlayerController.cs" />
     <Compile Include="Assets\Week 3\WinWolf.cs" />
+    <Compile Include="Assets\Week 4\BasicForceJump.cs" />
+    <Compile Include="Assets\Week 4\BasicForceMovement.cs" />
+    <Compile Include="Assets\Week 4\CamFollow.cs" />
+    <Compile Include="Assets\Week 4\Goal.cs" />
+    <Compile Include="Assets\Week 4\Reset.cs" />
     <Compile Include="Assets\ambience.cs" />
     <None Include="Assets\Poppins\OFL.txt" />
     <None Include="Assets\Other Assets\StarterAssets\Environment\Shaders\Built-in_RP\Triplanar.shader" />
