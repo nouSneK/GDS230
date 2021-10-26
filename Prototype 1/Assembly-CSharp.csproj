@@ -96,6 +96,7 @@
     <Compile Include="Assets\Week 4\Goal.cs" />
     <Compile Include="Assets\Week 4\Goal2.cs" />
     <Compile Include="Assets\Week 4\Reset.cs" />
+    <Compile Include="Assets\Week 5\ButtonController.cs" />
     <Compile Include="Assets\ambience.cs" />
     <None Include="Assets\Poppins\OFL.txt" />
     <None Include="Assets\Fonts\Bubbler_One\OFL.txt" />
