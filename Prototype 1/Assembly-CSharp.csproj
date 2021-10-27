@@ -96,7 +96,14 @@
     <Compile Include="Assets\Week 4\Goal.cs" />
     <Compile Include="Assets\Week 4\Goal2.cs" />
     <Compile Include="Assets\Week 4\Reset.cs" />
+    <Compile Include="Assets\Week 5\BackgroundScroller.cs" />
+    <Compile Include="Assets\Week 5\BeatScroller.cs" />
     <Compile Include="Assets\Week 5\ButtonController.cs" />
+    <Compile Include="Assets\Week 5\EffectObject.cs" />
+    <Compile Include="Assets\Week 5\GameManager.cs" />
+    <Compile Include="Assets\Week 5\NoteObject.cs" />
+    <Compile Include="Assets\Week 5\OnTriggerExitButton.cs" />
+    <Compile Include="Assets\Week 5\ReloadScene.cs" />
     <Compile Include="Assets\ambience.cs" />
     <None Include="Assets\Poppins\OFL.txt" />
     <None Include="Assets\Fonts\Bubbler_One\OFL.txt" />
