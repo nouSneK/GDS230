@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Week 5/Jammers2.unity
     guid: 456c97a1f3943344790c74aaa7c7fe73
+  - enabled: 1
+    path: Assets/Week 5/UmuScene.unity
+    guid: 48e02f096787dd540a1901643aa9a269
+  - enabled: 1
+    path: Assets/Week 5/Jammers3.unity
+    guid: 6c7750267cddb7b4b9cb4c5ec32b251f
   m_configObjects: {}
