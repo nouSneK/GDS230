@@ -104,6 +104,8 @@
     <Compile Include="Assets\Week 5\NoteObject.cs" />
     <Compile Include="Assets\Week 5\OnTriggerExitButton.cs" />
     <Compile Include="Assets\Week 5\ReloadScene.cs" />
+    <Compile Include="Assets\Week 7\ItemPickup.cs" />
+    <Compile Include="Assets\Week 7\ObstaclePush.cs" />
     <Compile Include="Assets\ambience.cs" />
     <None Include="Assets\Poppins\OFL.txt" />
     <None Include="Assets\Fonts\Bubbler_One\OFL.txt" />
