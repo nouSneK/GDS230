@@ -144,6 +144,7 @@
     <Compile Include="Assets\Week 7\ObstaclePush.cs" />
     <Compile Include="Assets\Week 7\PointManager.cs" />
     <Compile Include="Assets\Week 7\PointsTrigger.cs" />
+    <Compile Include="Assets\Week 8\Runaway.cs" />
     <Compile Include="Assets\ambience.cs" />
     <None Include="Assets\Poppins\OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
