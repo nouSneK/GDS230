@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Week 7/DeliveryMenu.unity
-    guid: 72428eac359b3ba49b48357d578a65e9
+    path: Assets/Week 8/HnSMenu.unity
+    guid: 6663a87d2408621408f43285f29ec5f0
   - enabled: 1
-    path: Assets/Week 7/Delivery Time.unity
-    guid: 619abf790473cf948a3e8f2d7351eeab
+    path: Assets/Week 8/HidenSeek.unity
+    guid: dfdc69186f2140e4790d50e612baf54c
   m_configObjects: {}
