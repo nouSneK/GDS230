@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Week 8/HnSMenu.unity
-    guid: 6663a87d2408621408f43285f29ec5f0
+    path: Assets/Week 9/LPMenu.unity
+    guid: 17ca2a985fc8cfc40b2c4bbe4f26b78b
   - enabled: 1
-    path: Assets/Week 8/HidenSeek.unity
-    guid: dfdc69186f2140e4790d50e612baf54c
+    path: Assets/Week 9/Lost Possessions.unity
+    guid: 8371e661ed9e5db4aa3c7e4d2fe0bc97
   m_configObjects: {}
