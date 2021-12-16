@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Week 9/Lost Possessions.unity
+- path: Assets/Week 11/Parkour in 20.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
